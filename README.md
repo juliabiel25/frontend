@@ -16,7 +16,7 @@
 
 # angular
 
-`cd 02_angular`
+`cd _todo-backend`
 
 `npm i`
 
@@ -29,3 +29,11 @@
 `npm i`
 
 `npm start`
+
+# svelte
+
+`cd 04_svelte`
+
+`npm i`
+
+`npm run dev`
